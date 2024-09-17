@@ -1,7 +1,3 @@
-Here’s a general README you can use for the repository:
-
----
-
 # EventWatch
 
 EventWatch is a web application designed to manage and organize events seamlessly. It features user authentication, event creation, search and filtering, category management, checkout, and payments.
